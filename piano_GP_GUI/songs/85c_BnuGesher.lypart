@@ -1,0 +1,1 @@
+\key g \major \relative c'{\time 4/4 s2 s4 s8 g'8 | d'4 b8 g d'4 b8 g8 | d'8[ d] e[ e] d4 (b8) g8 | d'[ d] b[ g] d'[ d] b[ g] | d'[ d] e[ e] d4( b8) s8 \bar "|."} 
