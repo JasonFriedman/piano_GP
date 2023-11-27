@@ -7,8 +7,6 @@ end
 diff_timing = data.error_after_right_timing - data.error_before_right_timing;
 diff_pitch = data.error_after_right_pitch - data.error_before_right_pitch;
 
-MEAN_UTILITY = 0.75;
-
 %if weight<0 || weight>1
 %    error('Weight must be between 0 (only pitch) and 1 (only timing)');
 %end
